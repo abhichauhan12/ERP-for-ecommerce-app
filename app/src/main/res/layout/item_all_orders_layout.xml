@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    android:layout_height="wrap_content">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp"
+        >
+
+        <TextView
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/rupeeIcon"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Product Name "
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:id="@+id/textViewProductName"
+         />
+        <TextView
+            app:layout_constraintTop_toBottomOf="@id/textViewProductName"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delivered"
+            android:textColor="@color/black"
+            android:id="@+id/textViewProductStatus"
+            />
+
+        <TextView
+            app:layout_constraintBottom_toBottomOf="@id/textViewProductName"
+            app:layout_constraintTop_toTopOf="@id/textViewProductName"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2344"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:id="@+id/textViewProductPrice"
+            />
+        <ImageView
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/rupeee"
+            android:id="@+id/rupeeIcon"
+            app:layout_constraintTop_toTopOf="@id/textViewProductPrice"
+            app:layout_constraintBottom_toBottomOf="@id/textViewProductPrice"
+            app:layout_constraintEnd_toStartOf="@id/textViewProductPrice"
+            />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</com.google.android.material.card.MaterialCardView>
