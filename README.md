@@ -33,60 +33,75 @@ One app for users to browse and shop, and another app for administrators to mana
 - [Android](https://www.android.com/intl/en_in/)
 
 ## Here are the some screenshots of the application.
-##
+## User Application 
+
 ## 1. Register , Login , OTP Verification page:
 
-![Untitled](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/6cb1bb12-5e4f-4372-b588-4efdf554dfca)
+![Untitled](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/d455d766-bd82-4423-bb05-2096e0d1376b)
 
 
 ##
 ## 2. Home Screen
 
-![Untitled (1)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/af3f544b-6ef7-4679-bac6-9564377217f1)
+![Untitled (1)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/e6dc7483-8c57-480c-b7da-0b95b53790b7)
 
 
 ##
 ## 3. Product Detials Page 
-![Untitled (2)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/a75d0bd3-0b7f-4de6-837c-e5684f434a4f)
+
+![Untitled (2)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/f29d9c98-d6bb-4f17-b8b5-6ca2c63be9f3)
 
 
 ##
-## 4. Product Cart
-![Untitled (6)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/4531705e-11ce-4bd5-b81f-d0c06fba7a77)
-
-##
-## 6. Payment Process
-![Untitled (4)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/4a768c37-df28-499b-837a-80fd3513958a)
-
+## 4. Product Cart And Checkout Address 
+![Untitled (6)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/9851fb51-da1f-437b-9645-ea58813823a4)
 
 
 ##
-## 7. Order Page
-![Untitled (5)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/454ad03a-59f3-40c8-8610-2163762503a7)
+## 5. Payment Process
+
+![Untitled (4)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/1b805fdc-95ad-46f8-ba26-1da64b359ee4)
+
+
+##
+## 6. Order Page
+![Untitled (5)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/6c463ddb-9201-44e5-9b45-e1c7dab7e12f)
 
 
 
 ##
-## 8. Admin Panel
-![Untitled (7)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/be478fc5-9919-4d02-9bba-8934ca36dffe)
+
+## Admin App
+
+## 7. Admin Panel
+
+![Untitled (7)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/51800518-0314-4cfb-9085-a3595c43e0ae)
+
 
 ##
-## 9. Add Slider Page
+## 8. Add Slider Page
+![Untitled (8)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/d0ac1031-c994-4882-adc3-fa0a7e3a8410)
 
-![Untitled (8)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/cb000012-eb42-4334-b415-b1a68a061e8f)
 
 
 ##
-## 10. Add Category Page
-![Untitled (9)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/8bba561d-1e2c-498b-be5e-b33c94e000b5)
+## 9. Add Category Page
+
+![Untitled (9)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/2a1f0d27-4007-4d1a-bffb-5a3513e1661b)
+
+
 ##
 ## 10. Add Product Page
-![Untitled (10)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/0ec2fe7f-4f30-472f-be6e-a0e825289b99)
+
+![Untitled (10)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/1342383a-dfbc-46f6-a2e3-aaf765eb6cdd)
+
+
 
 ##
 
-## 10.  User Order Page
-![Untitled (11)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/fb8270d2-1f77-427c-bdea-fa1bbc42b5b5)
+## 11.  User Order Page
+
+![Untitled (11)](https://github.com/abhichauhan12/ERP-for-ecommerce-app/assets/32174122/3f059761-04e6-4390-a6a0-6c630dbbddad)
 
 
 ##
